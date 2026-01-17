@@ -4,7 +4,7 @@ import AppWrapper from "./App"; // Use AppWrapper, not App
 import "./index.css";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <React.StrictMode>
+  <BrowserRouter>
     <AppWrapper />
-  </React.StrictMode>
+  </BrowserRouter>
 );
