@@ -1,0 +1,341 @@
+ {/* 1st Semester */}
+        <div className="semester-block">
+          <h2>1st Semester Past Questions</h2>
+          <div className="grid-container">
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sICr6ivnRAczyjroG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Metaphysics</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/metaphysics.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIIz6ivnRAbbxjroG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Early Modern Philosophy</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/Early Modern Philosophy.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sINH6ivnRAeXxjroG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Psychology of Religion</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/Psychology.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIOH6ivnRAenyjroG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Research</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/Research.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIBv6ivnRAfn1jroG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Philosophy of Literature</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/literature.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIJL6ivnRAc-NnLoG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Apostolic Vocation</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/Apostolic Vocation.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sICX6ivnRAYaOnLoG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Entrepreneurship</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/entrepreneurship.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIP36ivnRAdWOnLoG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">African Philosophy</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/AFRICAN PHILOSOPHY.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIE_6ivnRAYePnLoG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Sociology of Religion</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/SOCIOLOGY OF RELIGION.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIL36ivnRAcaPnLoG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Philosophy of Science</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/PHILOSOPHY OF SciencE.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIJX6ivnRAeuPnLoG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Social and Political Philosophy</p>
+              <a
+                href="https://savio-emma.github.io/sweet-store/Social and Political Philosophy.pdf"
+                download
+                className="download-btn"
+              >
+                <i className="fa-solid fa-download"></i>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        {/* 2nd Semester */}
+        <div className="semester-block">
+          <h2>2nd Semester Past Questions</h2>
+          <div className="grid-container">
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIIz6ivnRAa-Uyr8G"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Hermeneutics (lectures)</p>
+              {/* No download link provided originally */}
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIEf6ivnRAZap6sAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Asian Philosophy</p>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIEr6ivnRAY6r6sAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Apostolic Vocation</p>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIHj6ivnRAcGy7cAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Social & Political Thought</p>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIAz6ivnRAZm07cAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">ATR</p>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sINX6ivnRAaC27cAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Hermeneutics</p>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sILz6ivnRAd637cAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Symbolic Logic</p>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIOP6ivnRAdC87cAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Ethical Theories</p>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sIDD6ivnRAdfA7cAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Aesthetics</p>
+            </div>
+
+            <div className="document-card">
+              <a
+                href="https://eu.docworkspace.com/d/sINT6ivnRAeKa7MAG"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="view-link"
+              >
+                <i className="fa-solid fa-file-lines"></i>
+              </a>
+              <p className="subject-title">Philosophy of Religion</p>
+            </div>
+          </div>
+        </div>
