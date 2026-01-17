@@ -1,5 +1,6 @@
 {
   "name": "my-react-app",
+  "homepage": "https://savio-emma.github.io/Sweetest4/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,11 +8,14 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^7.1.0",
     "@fortawesome/react-fontawesome": "^3.1.1",
+    "gh-pages": "^6.3.0",
     "react": "^19.2.0",
     "react-device-detect": "^2.2.3",
     "react-dom": "^19.2.0",
